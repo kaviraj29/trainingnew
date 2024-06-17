@@ -32,13 +32,11 @@ public class Alerts {
 		Alert alt =driver.switchTo().alert();
 		System.out.println(alt.getText());
 		
-		
-		
-		
-		
-		
-		
+	
 		
 	}
+
+public static void testing(){
+system.out.println("checking");
 
 }
